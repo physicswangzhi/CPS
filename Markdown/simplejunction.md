@@ -354,8 +354,3 @@ This formula is much more intuitive, since it decries the current after the canc
 
 
 
-
-## Introduction
-
-- [Simple Junction: {\it Matsubara Formalism}](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/simplejunction)
-
