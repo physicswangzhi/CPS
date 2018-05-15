@@ -1,7 +1,7 @@
 
 # Simple Junction: {\it Matsubara Formalism}
 
-First we consider tunneling current in the textbok. First, we repeat his derivation following Mahan's Book, in \emph{page 85, page 207 and page 789}. The Hamiltonian of the junction writes as,
+First we consider tunneling current in the textbok. First, we repeat his derivation following Mahan's Book, in **page 85, page 207 and page 789**. The Hamiltonian of the junction writes as,
 \begin{eqnarray}
 && H=H_R+H_L+H_T=H_0+H_T\\\nonumber
 &&H_R=\sum_{\sigma,{\bf k}}\xi_{\bf k} c^{\dagger}_{\sigma,{\bf
@@ -41,7 +41,7 @@ N_Le^{-iHt}|\psi\rangle\\\nonumber
 &&=-e\langle\psi|e^{iHt}e^{-iH_0t}e^{iH_0t}\dot
 N_Le^{-iH_0t}e^{iH_0t}e^{-iHt}|\psi\rangle.
 \end{eqnarray}
-It looks that electric  current is not directly related to any retarded Green functions (as we will show later, it is actually nothing but a specific \emph{lesser} Green function), therefore it is not convenient to apply the Matsubara approach to expand the S-matrix. The solution here is to expand the S-matrix in the time regime first, then go to Mastubara picture later.
+It looks that electric  current is not directly related to any retarded Green functions (as we will show later, it is actually nothing but a specific **lesser** Green function), therefore it is not convenient to apply the Matsubara approach to expand the S-matrix. The solution here is to expand the S-matrix in the time regime first, then go to Mastubara picture later.
 We note that the operators are defined in the **Heseinberg representation** now. 
 We first  change to the **interaction representation**. We define the evolution operator,
 \begin{eqnarray}
@@ -64,7 +64,7 @@ This S-matrix connects the ground state at different times through the relation,
 \begin{eqnarray}
 |\hat \psi(t)\rangle=U(t) | \hat \psi(t=0)\rangle=S(t,t')|\hat \psi(t')\rangle
 \end{eqnarray}
-According to the {\red Gellman-Law theorem[cite Mahan p71]}, the quantum ground state of the system with and without the perturbation are connected by the $S$-Matrix,
+According to the **Gellman-Law theorem[cite Mahan p71]**, the quantum ground state of the system with and without the perturbation are connected by the $S$-Matrix,
 \begin{eqnarray}
 |\hat \psi_(t=0) \rangle =T {\rm exp}\left[-i\int_{-\infty}^0 dt' \hat H_T(t')\right] |\phi_0 \rangle = S(0,-\infty) |\phi _0 \rangle.
 \end{eqnarray}
