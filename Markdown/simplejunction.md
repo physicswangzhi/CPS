@@ -8,7 +8,7 @@ $$
 
 with the Hamiltonians for the left side,
 $$
-\Delta_R (c^{\dagger}_{{\bf k},\uparrow} c^{\dagger}_{{\bf -k},\downarrow}+ c_{{\bf k},\downarrow} c_{{\bf -k},\uparrow})
+ c^{\dagger}_{{\bf -k},\downarrow}+ c_{{\bf k},\downarrow} c_{{\bf -k},\uparrow})
 $$
 
 
