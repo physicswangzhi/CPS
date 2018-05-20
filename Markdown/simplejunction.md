@@ -8,7 +8,6 @@ $$
 
 with the Hamiltonians for the left side,
 $$
- c_{{\bf k},\downarrow} c_{{\bf -k},\uparrow})
 $$
 
 
