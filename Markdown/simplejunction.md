@@ -8,7 +8,7 @@ $$
 
 with the Hamiltonians for the left side,
 $$
- c^{\dagger}_{{\bf -k},\downarrow}+ c_{{\bf k},\downarrow} c_{{\bf -k},\uparrow})
+ c_{{\bf k},\downarrow} c_{{\bf -k},\uparrow})
 $$
 
 
