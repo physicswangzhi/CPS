@@ -8,20 +8,20 @@ $$
 
 with the Hamiltonians for the left side,
 $$
-\begin{align}
+\begin{eqnarray}
 H_R =\sum_{\sigma,{\bf k}} \xi_{\bf k} c^{\dagger}_{\sigma,{\bf
 k}}c_{\sigma,{\bf k}}+\sum_{{\bf k}} \Delta_R ( c^{\dagger}_{{\bf
 k},\uparrow}c^{\dagger}_{{\bf -k},\downarrow}+ c_{{\bf
 k},\downarrow} c_{{\bf -k},\uparrow})
-\end{align}
+\end{eqnarray}
 $$
 the right side
 $$
-\begin{align}
+\begin{eqnarray}
 H_L=\sum_{\sigma,{\bf p}}\xi_{\bf p} d^{\dagger}_{\sigma,{\bf
 p}}d_{\sigma,{\bf p}}+\sum_{{\bf p}}
 \Delta_L (d^{\dagger}_{{\bf p},\uparrow}d^{\dagger}_{{\bf -p},\downarrow} + d_{{\bf p},\downarrow}d_{{\bf -p},\uparrow})
-\end{align}
+\end{eqnarray}
 $$
 
 
