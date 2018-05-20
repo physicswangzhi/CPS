@@ -16,5 +16,5 @@ In this note, we will discuss the  Josephson junctions in which Cooper pair spli
 
 ## Introduction
 
-- [Simple Junction: {\it Matsubara Formalism}](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/simplejunction)
+- [Simple Junction: {\it Matsubara Formalism}](http://ucidatascienceinitiative.github.io/CPS/Html/simplejunction.html)
 

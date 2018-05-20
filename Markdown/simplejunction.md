@@ -8,8 +8,6 @@ $$
 
 with the Hamiltonians for the left side,
 $$
-H_R =\sum_{\sigma,{\bf k}} \xi_{\bf k} c^{\dagger}_{\sigma,{\bf k}}c_{\sigma,{\bf k}}
-+
 \sum_{\bf k} \Delta_R (c^{\dagger}_{{\bf k},\uparrow} c^{\dagger}_{{\bf -k},\downarrow}+ c_{{\bf k},\downarrow} c_{{\bf -k},\uparrow})
 $$
 
